@@ -1,0 +1,49 @@
+.add-user-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .form-section {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    width: 400px;
+    height:455px;
+    margin-top: 85px;
+  }
+  
+  .form-section h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .form-section input, 
+  .form-section select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .two-columns {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .two-columns > * {
+    flex: 1;
+  }
+  
+  .form-section button {
+    width: 100%;
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
