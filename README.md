@@ -1,6 +1,6 @@
 # 🎓 EduMaster - Smart Tuition Management System
 
-![EduMaster Dashboard Preview]([https://via.placeholder.com/800x400.png?text=EduMaster+Dashboard](https://github.com/mihirprabhath/EduMaster/blob/0c201916f4b6cd26894d9567b94488f66bf8c744/Capture.JPG))  
+![EduMaster Dashboard Preview](https://github.com/mihirprabhath/EduMaster/blob/0c201916f4b6cd26894d9567b94488f66bf8c744/Capture.JPG) 
 *Modern interface for efficient class management*
 
 ## ✨ Features at a Glance
@@ -10,7 +10,7 @@
 - **📱 Fully Responsive Design**  
 - **📊 Interactive Dashboard**  
 
-![Responsive Design Showcase](https://via.placeholder.com/600x300.png?text=Mobile+and+Desktop+Views)  
+![Responsive Design Showcase](https://github.com/mihirprabhath/EduMaster/blob/b6aafe3ae362dd582b6c79b8c2cbd908f4643c0e/Capture2.JPG)  
 *Seamless experience across all devices*
 
 ## 🛠 Tech Stack
